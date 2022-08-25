@@ -1,9 +1,9 @@
 import requests
 from bs4 import BeautifulSoup
 
-branch = 'cs'
+branch = 'ce'
 rStart = 1
-rEnd = 123
+rEnd = 128
 
 rollno = "21b"+branch
 url = 'http://14.139.56.19/scheme21/studentresult/result.asp'
