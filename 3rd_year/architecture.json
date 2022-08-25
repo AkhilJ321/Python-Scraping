@@ -1,0 +1,222 @@
+[
+    { "roll":"20BAR001",
+    "name":"MUGDHA",
+    "cgpa":"8.84"},
+    
+    { "roll":"20BAR002",
+    "name":"MONALI",
+    "cgpa":"8.15"},
+    
+    { "roll":"20BAR003",
+    "name":"DONA THOMAS",
+    "cgpa":"6.04"},
+    
+    { "roll":"20BAR004",
+    "name":"DEEPTANSHU AMOL NAVANGUL",
+    "cgpa":"8.78"},
+    
+    { "roll":"20BAR006",
+    "name":"BRITI MEHTA",
+    "cgpa":"8.91"},
+    
+    { "roll":"20BAR007",
+    "name":"MANIKA GAUTAM",
+    "cgpa":"8.75"},
+    
+    { "roll":"20BAR008",
+    "name":"PRERNA SINGH",
+    "cgpa":"9.37"},
+    
+    { "roll":"20BAR009",
+    "name":"VIBHUTI SHARMA",
+    "cgpa":"9.27"},
+    
+    { "roll":"20BAR010",
+    "name":"MIRZA ABDULLAH BEG",
+    "cgpa":"8.08"},
+    
+    { "roll":"20BAR012",
+    "name":"KRUTHI PATTATH KRISHNADAS",
+    "cgpa":"9.14"},
+    
+    { "roll":"20BAR013",
+    "name":"SAKSHI GUPTA",
+    "cgpa":"8.99"},
+    
+    { "roll":"20BAR014",
+    "name":"SARTHAK SOOD",
+    "cgpa":"8.08"},
+    
+    { "roll":"20BAR015",
+    "name":"RIYA VERMA",
+    "cgpa":"8.37"},
+    
+    { "roll":"20BAR016",
+    "name":"CHADIVE AARTHI REDDY",
+    "cgpa":"7.9"},
+    
+    { "roll":"20BAR017",
+    "name":"SIMRAN",
+    "cgpa":"7.17"},
+    
+    { "roll":"20BAR018",
+    "name":"ANNANY AWASTHI",
+    "cgpa":"7.36"},
+    
+    { "roll":"20BAR020",
+    "name":"HARSH THAKUR",
+    "cgpa":"8.88"},
+    
+    { "roll":"20BAR021",
+    "name":"ISHITA CHAUHAN",
+    "cgpa":"8.48"},
+    
+    { "roll":"20BAR022",
+    "name":"ANANYA PRASHAR",
+    "cgpa":"8.67"},
+    
+    { "roll":"20BAR023",
+    "name":"SHARAZ AHMED",
+    "cgpa":"5.59"},
+    
+    { "roll":"20BAR024",
+    "name":"PRAKASH KUMAR RANJAN",
+    "cgpa":"7.22"},
+    
+    { "roll":"20BAR025",
+    "name":"DIVYANSHU",
+    "cgpa":"6.84"},
+    
+    { "roll":"20BAR026",
+    "name":"ADITYA DEV RANJAN",
+    "cgpa":"5.65"},
+    
+    { "roll":"20BAR027",
+    "name":"PILAKSHI SHARMA",
+    "cgpa":"6.56"},
+    
+    { "roll":"20BAR028",
+    "name":"SAKSHAM WALIA",
+    "cgpa":"8.79"},
+    
+    { "roll":"20BAR029",
+    "name":"SHIVANSHU RAINA",
+    "cgpa":"8.08"},
+    
+    { "roll":"20BAR030",
+    "name":"AARYA MASURKAR",
+    "cgpa":"8.69"},
+    
+    { "roll":"20BAR031",
+    "name":"RITHIK RAMESH",
+    "cgpa":"8.64"},
+    
+    { "roll":"20BAR032",
+    "name":"ANANYA P",
+    "cgpa":"8.72"},
+    
+    { "roll":"20BAR033",
+    "name":"ADITYA SHEKHAR",
+    "cgpa":"8.35"},
+    
+    { "roll":"20BAR034",
+    "name":"GANIYA V",
+    "cgpa":"8.41"},
+    
+    { "roll":"20BAR035",
+    "name":"KARTIKEY SAINI",
+    "cgpa":"7.24"},
+    
+    { "roll":"20BAR036",
+    "name":"AKSHARA A T",
+    "cgpa":"9.45"},
+    
+    { "roll":"20BAR037",
+    "name":"SHUBHAM KUMAR",
+    "cgpa":"6.74"},
+    
+    { "roll":"20BAR038",
+    "name":"AMAN CHOUDHARY",
+    "cgpa":"6.95"},
+    
+    { "roll":"20BAR039",
+    "name":"MANAN",
+    "cgpa":"9.26"},
+    
+    { "roll":"20BAR040",
+    "name":"SHISHIR KAULAS",
+    "cgpa":"8.46"},
+    
+    { "roll":"20BAR041",
+    "name":"NITIKA",
+    "cgpa":"7.21"},
+    
+    { "roll":"20BAR042",
+    "name":"ISHITA",
+    "cgpa":"8.03"},
+    
+    { "roll":"20BAR043",
+    "name":"ARUSH DOGRA",
+    "cgpa":"6.67"},
+    
+    { "roll":"20BAR044",
+    "name":"HIMANSHU DHIMAN",
+    "cgpa":"8.91"},
+    
+    { "roll":"20BAR045",
+    "name":"UPINDER KUMAR",
+    "cgpa":"9.37"},
+    
+    { "roll":"20BAR046",
+    "name":"PRIYA GAUTAM",
+    "cgpa":"6.68"},
+    
+    { "roll":"20BAR047",
+    "name":"RAJAT KUMAR",
+    "cgpa":"7.08"},
+    
+    { "roll":"20BAR048",
+    "name":"JASSI KOUNDAL",
+    "cgpa":"5.63"},
+    
+    { "roll":"20BAR049",
+    "name":"MRINAL",
+    "cgpa":"6.18"},
+    
+    { "roll":"20BAR050",
+    "name":"SHUBHAM",
+    "cgpa":"8"},
+    
+    { "roll":"20BAR051",
+    "name":"AADITAY KUMAR GOYAL",
+    "cgpa":"8.97"},
+    
+    { "roll":"20BAR052",
+    "name":"SHEETAL BHARTI",
+    "cgpa":"7.47"},
+    
+    { "roll":"20BAR053",
+    "name":"GEETANJALI VERMA",
+    "cgpa":"9.31"},
+    
+    { "roll":"20BAR054",
+    "name":"MAHI PRASAD",
+    "cgpa":"7.33"},
+    
+    { "roll":"20BAR055",
+    "name":"RUOPFUZHAZO DZUVICHU",
+    "cgpa":"7.87"},
+    
+    { "roll":"20BAR056",
+    "name":"DEEKSHA BASHTEL NEGI",
+    "cgpa":"9"},
+    
+    { "roll":"20BAR057",
+    "name":"RITESH NEGI",
+    "cgpa":"6.02"},
+    
+    { "roll":"20BAR058",
+    "name":"ASHREY NEGI",
+    "cgpa":"6.74"}
+    
+    ]

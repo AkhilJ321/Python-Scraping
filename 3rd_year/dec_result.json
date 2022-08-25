@@ -1,0 +1,102 @@
+[
+    { "roll":"20DEC001",
+    "name":"SUYASH SACHDEVA",
+    "cgpa":"8.17"},
+    
+    { "roll":"20DEC002",
+    "name":"PRASHANT KUMAR BHAIYA",
+    "cgpa":"9.17"},
+    
+    { "roll":"20DEC003",
+    "name":"AYAN SHARMA",
+    "cgpa":"8.53"},
+    
+    { "roll":"20DEC004",
+    "name":"PRIYANSHU GROVER",
+    "cgpa":"8.8"},
+    
+    { "roll":"20DEC005",
+    "name":"KARTIK CHAUHAN",
+    "cgpa":"8.09"},
+    
+    { "roll":"20DEC006",
+    "name":"SAURAV GUPTA",
+    "cgpa":"8.92"},
+    
+    { "roll":"20DEC008",
+    "name":"AMAN KANWAR",
+    "cgpa":"8.16"},
+    
+    { "roll":"20DEC009",
+    "name":"SHAMBHAVI DOGRA",
+    "cgpa":"9.25"},
+    
+    { "roll":"20DEC010",
+    "name":"SUJAL GUPTA",
+    "cgpa":"8.74"},
+    
+    { "roll":"20DEC011",
+    "name":"HARSH GUPTA",
+    "cgpa":"8.55"},
+    
+    { "roll":"20DEC012",
+    "name":"ADRIJA BHATTACHARYA",
+    "cgpa":"9.32"},
+    
+    { "roll":"20DEC013",
+    "name":"SOHAL ANGIRAS",
+    "cgpa":"9.09"},
+    
+    { "roll":"20DEC014",
+    "name":"PRITHVIRAJ KUMAWAT",
+    "cgpa":"8.86"},
+    
+    { "roll":"20DEC015",
+    "name":"ANKIT",
+    "cgpa":"8.63"},
+    
+    { "roll":"20DEC016",
+    "name":"AFTAB DAYER",
+    "cgpa":"8.43"},
+    
+    { "roll":"20DEC018",
+    "name":"BHAVNEESH",
+    "cgpa":"8.96"},
+    
+    { "roll":"20DEC019",
+    "name":"LOVNEESH KUMAR",
+    "cgpa":"8.01"},
+    
+    { "roll":"20DEC020",
+    "name":"SHAHIL DHIMAN",
+    "cgpa":"8.84"},
+    
+    { "roll":"20DEC021",
+    "name":"ISHIKA RANI",
+    "cgpa":"8.7"},
+    
+    { "roll":"20DEC022",
+    "name":"AMAN VERMA",
+    "cgpa":"8.58"},
+    
+    { "roll":"20DEC023",
+    "name":"TANUJ KHARIAL",
+    "cgpa":"8.59"},
+    
+    { "roll":"20DEC024",
+    "name":"AKASH KUMAR",
+    "cgpa":"8.4"},
+    
+    { "roll":"20DEC025",
+    "name":"ANOUSHKA KUMARI",
+    "cgpa":"9.18"},
+    
+    { "roll":"20DEC026",
+    "name":"MOHD SOHAIL",
+    "cgpa":"8.92"},
+    
+    { "roll":"20DEC027",
+    "name":"AASTHA BERRY",
+    "cgpa":"9.3"}
+    
+    ]
